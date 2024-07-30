@@ -1,16 +1,13 @@
-## Hi there 👋
+oi,este é meu perfil
 
-<!--
-**Juliacosta19/Juliacosta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Júlia costa
 
-Here are some ideas to get you started:
+- sou estudante do alura
+- 1° ano C
+- Aluna do Antônio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📪
+
+00001141401745sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/ENytrWvCw0AAAAAi/problem-sleuth-homestuck.gif)
